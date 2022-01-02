@@ -1,2 +1,2 @@
 # rsschool-cv
-https://DimaAnosov.io/rsschool-cv/cv
+https://DimaAnosov.github.io/rsschool-cv/cv
